@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/raw/*.parquet
+data/processed/*.parquet
+data/raw/*_backfill_checkpoint.json
+
+data/
+.venv/
+__pycache__/
+*.pyc
